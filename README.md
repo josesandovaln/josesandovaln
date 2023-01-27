@@ -5,8 +5,8 @@ Estudante de desenvolvimento de sistemas e direcionando meu aprendizado nas ling
 <div align="center">
 
   <a href="https://github.com/josesandovaln">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josesandovaln&count_private=true&show_icons=true&theme=calm"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesandovaln&theme=calm&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josesandovaln&count_private=true&show_icons=true&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesandovaln&theme=codeSTACKr&layout=compact"/>
 
 </div>
 
