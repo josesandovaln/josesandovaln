@@ -1,6 +1,6 @@
 # Olá! Eu sou o José Sandoval 🖐🏽 
 
-Estudante de desenvolvimento de sistemas e direcionando meu aprendizado nas linguagens de programação Java.
+Estudante de desenvolvimento de sistemas e direcionando meu aprendizado na linguagem de programação Java.
 
 <div align="center">
 
